@@ -1,2 +1,2 @@
 # active-directory
-active directory i made
+Powerpoint presentation is attached as a pdf in the repo.
